@@ -1,0 +1,51 @@
+﻿ID,SOL,Age,Sex,EHI,Chronicity,UEFM
+L001,Right Hemiparesis,69,M,100,141,59
+L002,Right Hemiparesis,51,M,90,95,47
+L003,Right Hemiparesis,60,F,100,63,51
+L004,Right Hemiparesis,59,F,100,67,36
+L005,Right Hemiparesis,68,M,100,23,26
+L006,Right Hemiparesis,67,M,87.5,43,20
+L007,Right Hemiparesis,70,M,100,127,62
+L008,Right Hemiparesis,64,F,80,117,60
+L009,Right Hemiparesis,83,M,88.89,121,60
+L010,Right Hemiparesis,50,M,60,57,63
+L011,Right Hemiparesis,62,M,90,137,55
+L012,Right Hemiparesis,61,M,100,19,54
+L013,Right Hemiparesis,62,F,100,95,63
+L014,Right Hemiparesis,47,M,100,95,61
+L015,Right Hemiparesis,80,M,88.9,130,54
+R001,Left Hemiparesis,75,M,100,171,41
+R002,Left Hemiparesis,52,F,100,93,58
+R003,Left Hemiparesis,73,M,100,54,58
+R004,Left Hemiparesis,62,F,100,23,41
+R005,Left Hemiparesis,63,F,75,64,52
+R006,Left Hemiparesis,30,F,75,51,64
+R007,Left Hemiparesis,52,M,100,81,27
+R008,Left Hemiparesis,75,M,50,107,53
+R009,Left Hemiparesis,70,M,100,155,36
+R011,Left Hemiparesis,65,M,75,128,40
+R012,Left Hemiparesis,66,F,100,176,49
+R013,Left Hemiparesis,68,M,100,211,60
+R014,Left Hemiparesis,60,F,100,151,13
+R015,Left Hemiparesis,30,F,100,29,63
+R016,Left Hemiparesis,50,M,100,67,63
+Y001,Controls,20,F,89.9,,
+Y002,Controls,27,M,100,,
+Y003,Controls,21,M,100,,
+Y004,Controls,25,F,100,,
+Y005,Controls,29,M,100,,
+Y006,Controls,28,F,88.9,,
+Y007,Controls,27,M,80,,
+Y008,Controls,29,M,75,,
+Y009,Controls,24,F,100,,
+Y010,Controls,25,F,77.8,,
+Y011,Controls,21,F,44,,
+Y012,Controls,25,F,100,,
+Y013,Controls,27,M,87.5,,
+Y014,Controls,29,F,77.8,,
+Y015,Controls,34,F,100,,
+Y016,Controls,36,F,100,,
+Y017,Controls,26,F,100,,
+Y018,Controls,27,M,61.7,,
+Y019,Controls,27,M,75,,
+Y020,Controls,31,M,77.8,,
