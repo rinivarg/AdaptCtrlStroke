@@ -1,4 +1,4 @@
-# AdaptCtrlStroke
+# Flexible adaptive control after stroke
 
 [![OSF](https://img.shields.io/badge/DOI-10.17605/osf.io/dk5sn-yellowgreen)](https://osf.io/dk5sn/)
 [![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://grantome.com/grant/NIH/F31-HD098796-01)
