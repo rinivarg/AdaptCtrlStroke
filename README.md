@@ -7,7 +7,7 @@
 This GitHub repository contains the data table and code for analysis for the paper published in the *Proceedings of the National Academy of Sciences USA* titled: **[Adaptive Control is Reversed Between Hands After Left Hemisphere Stroke and Lost Following Right Hemisphere Stroke](https://www.pnas.org/doi/10.1073/pnas.2212726120).**
 
 
-1) **Data:* <br>
+1) **Data:** <br>
     a) [Main data file](https://github.com/rinivarg/AdaptCtrlStroke/blob/main/YNC_allData_120321_full.csv)<br>
     b) [Demographics for Table 1](https://github.com/rinivarg/AdaptCtrlStroke/blob/main/forTable1_v2.csv)<br>
     c) [Fugl-Meyer/Chronicity](https://github.com/rinivarg/AdaptCtrlStroke/blob/main/fmchron_subj.csv)<br>
