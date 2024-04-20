@@ -1,7 +1,7 @@
 # Flexible adaptive control after stroke
 
 [![OSF](https://img.shields.io/badge/DOI-10.17605/osf.io/dk5sn-yellowgreen)](https://osf.io/dk5sn/)
-[![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://grantome.com/grant/NIH/F31-HD098796-01)
+[![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://reporter.nih.gov/project-details/9760396)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=@rinivarg)](https://twitter.com/rinivarg)
 
 This GitHub repository contains the data table and code for analysis for the paper published in the *Proceedings of the National Academy of Sciences USA* titled: **[Adaptive Control is Reversed Between Hands After Left Hemisphere Stroke and Lost Following Right Hemisphere Stroke](https://www.pnas.org/doi/10.1073/pnas.2212726120).**
